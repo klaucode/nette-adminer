@@ -14,7 +14,7 @@ Installation
 ------------
 
 ```
-composer require dg/adminer-custom
+composer require klaucode/nette-adminer
 ```
 
 Create file `index.php` somewhere in your document root, for example in subdirectory `adminer/`:
